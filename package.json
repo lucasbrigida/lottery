@@ -1,0 +1,17 @@
+{
+  "name": "lottery",
+  "version": "0.0.1",
+  "description": "This program draws random numbers for filling of cards",
+  "main": "lottery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lottery"
+  ],
+  "author": "Lucas Pereira Brigida",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "commander": "~2.1.0"
+  }
+}
